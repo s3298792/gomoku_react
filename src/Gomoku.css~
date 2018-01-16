@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+}
+
+.square {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  color: #777777;
+  display: inline flex;
+  font-size: 20px;
+  font-weight: bold;
+  height: 40px;
+  width: 40px;
+}
